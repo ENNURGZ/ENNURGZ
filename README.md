@@ -30,4 +30,5 @@ I care about **code quality, SOLID principles, and real-world usability**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/ENNURGZ)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ennur-gürbüz)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@ennurgz)  
 [![Mail](https://img.shields.io/badge/Email-555?style=flat&logo=gmail)](mailto:ennurgz002@gmail.com)
